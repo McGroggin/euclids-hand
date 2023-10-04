@@ -1,2 +1,2 @@
 # euclids-hand
- A Euclidean Rhythm generator
+ A Euclidean Rhythm Necklace generator
